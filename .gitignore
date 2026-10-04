@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.publication/
+local/
+node_modules/
+*.log
+.DS_Store

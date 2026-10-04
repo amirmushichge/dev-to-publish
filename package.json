@@ -1,0 +1,10 @@
+{
+  "name": "dev-to-publish",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Turn project work into reviewed, channel-specific publication packages and deliver through Buffer API",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test", "check": "node scripts/check-repo.mjs" },
+  "license": "MIT"
+}

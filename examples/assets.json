@@ -1,0 +1,12 @@
+{
+  "sourceFootage": [],
+  "sourceImages": [],
+  "musicFolder": null,
+  "brandingOverlays": [],
+  "fonts": [],
+  "logo": null,
+  "templates": [],
+  "localArchive": "./local/archive",
+  "deliveryHost": { "status": "not-configured", "publicBaseURL": null },
+  "receiptDirectory": "./.publication"
+}

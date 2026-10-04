@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "contentId": "example-video-demo",
+  "version": "v1",
+  "service": "instagram",
+  "accountLabel": "Example account — replace before delivery",
+  "media": [
+    {
+      "path": "../local/exports/demo.mp4",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "url": "https://media.example.com/demo-v1.mp4"
+    }
+  ],
+  "createInput": {
+    "channelId": "REPLACE_WITH_YOUR_CHANNEL_ID",
+    "text": "Replace with your approved caption and actual credits",
+    "assets": [
+      { "video": { "url": "https://media.example.com/demo-v1.mp4", "metadata": { "thumbnailOffset": 2000 } } }
+    ],
+    "metadata": { "instagram": { "type": "reel" } },
+    "mode": "addToQueue",
+    "schedulingType": "automatic",
+    "saveToDraft": true,
+    "needsApproval": false,
+    "aiAssisted": true
+  }
+}

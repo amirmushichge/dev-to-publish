@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "audience": "Define your intended audience",
+  "channels": [],
+  "sample": { "count": 0, "dateRange": null, "sources": [], "accessGaps": [] },
+  "rules": [
+    { "area": "voice", "rule": "Replace with your own rule", "origin": "proposal", "confidence": "unconfirmed", "evidence": [], "approved": false }
+  ],
+  "visualStyle": { "status": "not-established", "fonts": [], "palette": [], "layoutRules": [] },
+  "changes": []
+}

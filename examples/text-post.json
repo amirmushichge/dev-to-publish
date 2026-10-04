@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "contentId": "example-product-demo",
+  "version": "v1",
+  "service": "linkedin",
+  "accountLabel": "Example account — replace before delivery",
+  "media": [],
+  "createInput": {
+    "channelId": "REPLACE_WITH_YOUR_CHANNEL_ID",
+    "text": "Built a working product demo and connected the path from the development chat to a reviewed publication package.\n\nThis is synthetic example copy. Replace it with your actual project facts.",
+    "assets": [],
+    "mode": "addToQueue",
+    "schedulingType": "automatic",
+    "saveToDraft": true,
+    "needsApproval": false,
+    "aiAssisted": true
+  }
+}
